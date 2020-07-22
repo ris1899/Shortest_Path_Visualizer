@@ -1,7 +1,7 @@
 Hey
 It's my Project 
 
-## Shortest Path Visulizer
+# Shortest Path Visulizer
 
 -Main files are ,app.js,pathfinder.jsx,pathfinder.css,astar.js,dijkstra.js
 
