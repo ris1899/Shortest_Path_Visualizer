@@ -1,13 +1,13 @@
 Hey
 It's my Project 
 
-# Shortest Path Visualizer
+ #Shortest Path Visualizer
 
 -Main files are ,app.js,pathfinder.jsx,pathfinder.css,astar.js,dijkstra.js
 
 
 -features :
- #visualize shortest path between two nodes 
+ #visualize shortest path between two nodes <br> 
  #use of 2 algorithms Astar and dijkstra to find shortest path
 
 To start the web app
