@@ -7,14 +7,13 @@ It's my Project
 
 
 -features :
- # visualize shortest path between two nodes 
- # use of 2 algorithms Astar and dijkstra to find shortest path
+ #visualize shortest path between two nodes 
+ #use of 2 algorithms Astar and dijkstra to find shortest path
 
 To start the web app
 
 1) To run the server 
-#  `npm start`
-
+#`npm start`
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
